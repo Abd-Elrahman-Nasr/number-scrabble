@@ -1,2 +1,2 @@
-# number-scrabble
-# number-scrabble
+# Number Scrabble
+# Pong
